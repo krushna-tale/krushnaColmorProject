@@ -212,6 +212,9 @@ main {
     width: 718px;
     margin: 45px 5px;
 }
+#kt{
+    text-align: left;
+}
 .t_right{
     float:right;
     margin: -550px 32px;
@@ -239,3 +242,13 @@ color: rgb(61, 61, 61);
     padding-right: 10px;
     color: rgb(61, 61, 61);
 }
+.p_left p{
+    text-align: left;
+}
+.p_left img{
+    height: 414px;
+    width: 688px;
+    margin: 16px 30px;
+}
+
+
