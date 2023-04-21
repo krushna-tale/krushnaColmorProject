@@ -334,6 +334,12 @@
         width: 688px;
         margin: 16px 30px;
     }
+    .Start_learning{
+        display: none;
+    }
+    .thesis_exhibits{
+        display: none;
+    }
 }
 
 @media screen and (max-device-width: 480px) {
